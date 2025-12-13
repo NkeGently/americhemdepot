@@ -81,7 +81,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
               </div>
 
               {/* Price */}
-              <div className="text-2xl font-bold text-blue-600 mb-6">€{product.price}</div>
+              <div className="text-2xl font-bold text-blue-600 mb-6">${product.price}</div>
 
               {/* Stock Status */}
               <div className="flex items-center gap-2 mb-6">
