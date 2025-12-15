@@ -29,7 +29,7 @@ export default function ContactPage() {
           <h3 className="text-2xl font-bold text-gray-900 mb-3">WhatsApp</h3>
           <p className="text-gray-700 mb-4 text-lg">Instant messaging and quick responses</p>
           <a
-            href="https://wa.me/447415179416"
+            href="https://wa.me/12709668162"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-lg transition-colors text-lg"
