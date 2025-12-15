@@ -127,7 +127,7 @@ const ShopContent = () => {
               </Link>
               <p className="text-sm text-gray-600 mb-2 line-clamp-1">{product.description}</p>
               <div className="flex items-center justify-between mb-4">
-                <span className="text-lg font-bold text-blue-600">€{product.price}</span>
+                <span className="text-lg font-bold text-blue-600">${product.price}</span>
                 <div className="flex items-center">
                   <span className="text-yellow-400 text-sm">★</span>
                   <span className="text-xs text-gray-600 ml-1">
